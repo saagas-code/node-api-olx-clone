@@ -1,12 +1,30 @@
 <h1 align="center">API OLX em Node</h1>
 
-Arquivos do módulo inicial de Node + Typescript, da estrutura MVC aplicada.
+## Técnicas utilizadas:
 
-### Pré-requisitos globais:
-`npm i -g nodemon typescript ts-node`
+- Sequelize
+- Typescript
+- Express
+- Passport JWT
+- Multer
+- Sharp
+- uuid(v4)
 
-### Instalação
-`npm install`
+## Sobre 💻
+Projeto desenvolvido com o intuito de simular o back-end da [OLX](https://olx.com.br/) baseado em estrutura MVC
 
-### Para rodar o projeto
-`npm run start-dev`
+## Instalação
+**1 -** Criar arquivo .env e setar variáveis:
+```sh
+$ PORT
+$ MONGO_URL
+$ JWT_SECRET_KEY
+```
+**3 -** Rodar comandos no Terminal:
+```sh
+$ npm install
+$ npm run start-dev
+```
+
+### License
+© [SaagaS](https://github.com/SaagaS0)
