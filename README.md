@@ -1,6 +1,6 @@
 <h1 align="center">API OLX em Node</h1>
 
-## Técnicas utilizadas:
+## Tecnologias utilizadas:
 
 - Sequelize
 - Typescript
